@@ -1,0 +1,25 @@
+.login_div
+{
+	background-color:mediumturquoise;
+    float: none;
+    border-radius: 15px;
+}
+.logo
+{
+	width: 100px;
+    height:100px;
+    margin-top: 40px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px mediumvioletred;
+}
+#login_button
+{
+	width: 80%;
+    border-radius: 15px;
+}
+.header img
+{
+	width: 100px;
+    height:100px;
+    
+}
